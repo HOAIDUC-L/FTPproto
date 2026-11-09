@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: ftpproto-postgres
+    restart: always
+    environment:
+      POSTGRES_DB: ftpproto_db
+      POSTGRES_USER: ftpuser
+      POSTGRES_PASSWORD: ftppassword
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./scripts/schema.sql:/docker-entrypoint-initdb.d/schema.sql
+
+volumes:
+  pgdata:

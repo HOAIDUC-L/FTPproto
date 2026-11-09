@@ -1,0 +1,10 @@
+/home/hduc/IdeaProjects/FTPproto/ftp-client/src/main/java/com/ftpproto/client/ClientMain.java
+/home/hduc/IdeaProjects/FTPproto/ftp-client/src/main/java/com/ftpproto/client/core/FTPClientEngine.java
+/home/hduc/IdeaProjects/FTPproto/ftp-client/src/main/java/com/ftpproto/client/event/ClientLogListener.java
+/home/hduc/IdeaProjects/FTPproto/ftp-client/src/main/java/com/ftpproto/client/event/TransferProgressListener.java
+/home/hduc/IdeaProjects/FTPproto/ftp-client/src/main/java/com/ftpproto/client/ui/ClientMainFrame.java
+/home/hduc/IdeaProjects/FTPproto/ftp-client/src/main/java/com/ftpproto/client/ui/LocalFilePanel.java
+/home/hduc/IdeaProjects/FTPproto/ftp-client/src/main/java/com/ftpproto/client/ui/QuickConnectBar.java
+/home/hduc/IdeaProjects/FTPproto/ftp-client/src/main/java/com/ftpproto/client/ui/RemoteFilePanel.java
+/home/hduc/IdeaProjects/FTPproto/ftp-client/src/main/java/com/ftpproto/client/ui/StatusLogPanel.java
+/home/hduc/IdeaProjects/FTPproto/ftp-client/src/main/java/com/ftpproto/client/ui/TransferProgressPanel.java

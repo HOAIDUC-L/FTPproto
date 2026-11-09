@@ -1,0 +1,2 @@
+Chào mừng bạn đến với hệ thống máy chủ FTPproto Server!
+Hệ thống phát triển bởi Java Senior Software Engineer.
